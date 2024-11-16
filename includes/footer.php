@@ -5,5 +5,5 @@
       </div>
       <strong>Copyright &copy; 2023 <a href="https://service.freewebsitecode.com">FreeWebsiteCode</a></strong>
     </div>
-    <!-- /.container -->
+
 </footer>
